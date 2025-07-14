@@ -1,6 +1,6 @@
 Please note that some of these programs will only work when launched from a terminal or IDE (like by typing ./hw1.exe when in the correct directory). Some of them are also expecting certain files to be present, but those cases will be listed below. 
 
-Note: The original version of HW5 is quite buggy. I had been able to get it to work fine for class, but running it today it sometimes doesn't launch, and when it does, output frequently includes garbage data. It likely has to do with the alias string being limited to 10 characters, but longer strings being passed to it. I fixed this in the HW5-Patched.c file by changing the length of the alias string to 64 characters. 
+Note: The original version of HW5 is quite buggy. I had been able to get it to work fine for class, but running it today it sometimes doesn't launch, and when it does, output frequently includes garbage data. It likely has to do with the alias string being limited to 11 characters, but longer strings being passed to it. I fixed this in the HW5-Patched.c file by changing the length of the alias string to 64 characters. 
 
 ## Functions of each program
 
