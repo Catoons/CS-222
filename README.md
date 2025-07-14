@@ -17,6 +17,6 @@ Also gives the option to save that info to a file including name and date.
 
 ### HW4
 
-Prompts the user for a name. Then, using the file "CS222_Inet.txt", it sorts the list of usernames & IP addresses in ascending or descending order based on user input. It then saves that information to the file "222_Alias_List.txt" along with username and date and time.
+Prompts the user for a name. Then, using the file "CS222_Inet.txt", it sorts the list of usernames & IP addresses in ascending or descending order based on user input. It then saves that information to the file "222_Alias_List.txt" along with name, date, and time.
 
 ### HW5
