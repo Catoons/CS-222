@@ -10,7 +10,7 @@ Takes an integer and says whether it is postive or negative.
 
 ### HW2
 
-Takes an integer between 1 and 999,999, then returns each digit in reverse order and states whether it is divisble by 9. 
+Takes an integer between 1 and 999,999, then returns each digit in reverse order and states whether it is divisible by 9. 
 
 ### HW3
 
