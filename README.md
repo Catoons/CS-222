@@ -1,3 +1,5 @@
+Please note that some of these programs will only work when launched from a terminal or IDE. Some of them are also expecting certain files to be present, but those cases will be listed below. 
+
 ## Functions of each program
 
 HW1
