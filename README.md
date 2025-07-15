@@ -23,7 +23,7 @@ Prompts the user for a name. Then, opening the file "CS222_Inet.txt", it sorts t
 
 ### HW5
 
-As with program 4, it uses the address list "222_Alias_List.txt". However, it has far more functionality. 
+As with program 4, it uses the address list "222_Alias_Inet.txt". However, it has far more functionality. 
 
 It allows the user to select from several options: 
 
